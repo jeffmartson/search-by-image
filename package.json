@@ -46,7 +46,7 @@
     "buffer": "^6.0.3",
     "core-js": "^3.30.2",
     "cropperjs": "^1.5.13",
-    "file-type": "^18.4.0",
+    "file-type": "^18.5.0",
     "filesize": "^10.0.7",
     "idb-keyval": "^6.2.1",
     "imagesloaded": "^5.0.0",
