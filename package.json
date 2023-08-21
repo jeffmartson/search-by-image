@@ -59,7 +59,7 @@
     "vue": "^3.3.4",
     "vue-resize": "^2.0.0-alpha.1",
     "vuedraggable": "^4.1.0",
-    "vuetify": "3.3.0",
+    "vuetify": "3.3.10",
     "vueton": "^0.4.0",
     "webextension-polyfill": "^0.10.0",
     "wesa": "^0.3.1"
