@@ -42,7 +42,7 @@
     "push": "git push --follow-tags origin main"
   },
   "dependencies": {
-    "@fontsource/roboto": "^5.0.2",
+    "@fontsource/roboto": "^5.0.5",
     "buffer": "^6.0.3",
     "core-js": "^3.30.2",
     "cropperjs": "^1.5.13",
