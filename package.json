@@ -47,7 +47,7 @@
     "core-js": "^3.30.2",
     "cropperjs": "^1.5.13",
     "file-type": "^18.4.0",
-    "filesize": "^10.0.7",
+    "filesize": "^10.0.8",
     "idb-keyval": "^6.2.1",
     "imagesloaded": "^5.0.0",
     "lodash-es": "^4.17.21",
